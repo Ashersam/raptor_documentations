@@ -13,15 +13,15 @@ const config = {
   favicon: 'img/logo_webbo.png',
 
   // Set the production url of your site here
-  url: 'https://your-docusaurus-site.example.com',
+  url: 'raptordocs.netlify.app',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'https://gitlab.raptorpos.com', // Usually your GitHub org/user name.
-  projectName: 'Raptor_Documentations', // Usually your repo name.
+  organizationName: 'https://github.com/Ashersam', // Usually your GitHub org/user name.
+  projectName: 'raptor_documentations', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -44,7 +44,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://gitlab.raptorpos.com/ashersamuel/raptor_documentations/-/tree/main',
+            'https://github.com/Ashersam/raptor_documentations/tree/main/docs',
         },
         theme: {
           customCss: './src/css/custom.css',
@@ -73,7 +73,7 @@ const config = {
           },
           // {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://gitlab.raptorpos.com/ashersamuel/raptor_documentations',
+            href: 'https://github.com/Ashersam/raptor_documentations',
             label: 'GitHub',
             position: 'right',
           },
@@ -117,7 +117,7 @@ const config = {
               },
               {
                 label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                href: 'https://github.com/Ashersam/raptor_documentations',
               },
             ],
           },
