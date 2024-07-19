@@ -66,7 +66,7 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'My Site',
+        title: 'Raptor Docs',
         logo: {
           alt: 'My Site Logo',
           src: 'img/logo_webbo.png',
