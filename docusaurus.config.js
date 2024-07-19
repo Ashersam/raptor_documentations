@@ -60,6 +60,7 @@ const config = {
     ],
   ],
 
+  
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
@@ -79,9 +80,10 @@ const config = {
             label: 'Tutorial',
           },
           {
+            type: 'docSidebar',
+            sidebarId: 'webboapiSidebar',
             position: 'left',
             label: 'Webbo API',
-            to: '/api'
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
