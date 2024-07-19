@@ -9,5 +9,6 @@ authors:
     title: Raptor Docs
     url: https://github.com/Ashersam
     image_url: /img/logo.svg
+    imageUrl: https://webbo.raptorpos.com/img/logo-black.png
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat.
+Test Raptor Docs Entry
