@@ -78,6 +78,11 @@ const config = {
             position: 'left',
             label: 'Tutorial',
           },
+          {
+            position: 'left',
+            label: 'Webbo API',
+            to: '/api'
+          },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
             href: 'https://github.com/Ashersam/raptor_documentations',
