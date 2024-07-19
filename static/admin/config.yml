@@ -36,12 +36,3 @@ collections:
       - { label: "Body", name: "body", widget: "markdown" }
       - { label: "Tags", name: "tags", widget: "list" }
 
-  - name: webboapi
-    label: "Webbo API"
-    folder: "docs/webboapi" # Adjusted to reflect the correct folder structure
-    create: true
-    slug: "{{slug}}"
-    fields:
-      - { label: "Title", name: "title", widget: "string" }
-      - { label: "Body", name: "body", widget: "markdown" }
-      - { label: "Tags", name: "tags", widget: "list" }

@@ -79,12 +79,12 @@ const config = {
             position: 'left',
             label: 'Tutorial',
           },
-          {
-            type: 'docSidebar',
-            sidebarId: 'webboapiSidebar',
-            position: 'left',
-            label: 'Webbo API',
-          },
+          // {
+          //   type: 'docSidebar',
+          //   sidebarId: 'webboapiSidebar',
+          //   position: 'left',
+          //   label: 'Webbo API',
+          // },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
             href: 'https://github.com/Ashersam/raptor_documentations',
